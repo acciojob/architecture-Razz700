@@ -1,1 +1,6 @@
 /*  your css code here. If applicable */
+body{background-color:lightcyan;
+ width:1100px;}
+tr:first-child,tr:last-child{width:200px;;
+							}
+tr:nth-child(2){width:600px;}
